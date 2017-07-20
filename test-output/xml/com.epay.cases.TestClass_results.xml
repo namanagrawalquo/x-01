@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Quovantis"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.492">
+  <properties />
+  
+  
+            <testcase name="getTitleofContactPage" time="9.943" classname="com.epay.cases.TestClass" />
+                <testcase name="getTitleofHomePage" time="10.549" classname="com.epay.cases.TestClass" />
+      
+</testsuite>

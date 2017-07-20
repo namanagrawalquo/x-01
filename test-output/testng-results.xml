@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25695" started-at="2017-07-20T09:23:09Z" finished-at="2017-07-20T09:23:35Z">
+    <groups>
+    </groups>
+    <test name="Quovantis" duration-ms="25695" started-at="2017-07-20T09:23:09Z" finished-at="2017-07-20T09:23:35Z">
+      <class name="com.epay.cases.TestClass">
+        <test-method status="PASS" signature="start(java.lang.String)[pri:0, instance:com.epay.cases.TestClass@30a3107a]" name="start" is-config="true" duration-ms="3999" started-at="2017-07-20T14:53:09Z" finished-at="2017-07-20T14:53:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="getTitleofHomePage()[pri:1, instance:com.epay.cases.TestClass@30a3107a]" name="getTitleofHomePage" duration-ms="10549" started-at="2017-07-20T14:53:13Z" finished-at="2017-07-20T14:53:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleofHomePage -->
+        <test-method status="PASS" signature="getTitleofContactPage()[pri:2, instance:com.epay.cases.TestClass@30a3107a]" name="getTitleofContactPage" duration-ms="9943" started-at="2017-07-20T14:53:24Z" finished-at="2017-07-20T14:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleofContactPage -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.epay.cases.TestClass@30a3107a]" name="end" is-config="true" duration-ms="1174" started-at="2017-07-20T14:53:34Z" finished-at="2017-07-20T14:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.epay.cases.TestClass -->
+    </test> <!-- Quovantis -->
+  </suite> <!-- Suite -->
+</testng-results>

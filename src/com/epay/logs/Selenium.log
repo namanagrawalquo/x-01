@@ -1,0 +1,9 @@
+14:53:13,575 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:44 - Chrome browser started.
+14:53:13,614 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:45 - getTitleofHomePage started.
+14:53:24,146 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:22 - title is: Product Design and Development Company | Quovantis Technologies
+14:53:24,147 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:50 - getTitleofHomePage completed.
+14:53:24,154 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:31 - getTitleofContactPage started.
+14:53:25,299 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:30 - Click on Menu link
+14:53:30,610 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:24 - Click on Contact link
+14:53:34,093 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:39 - getTitleofContactPage completed.
+14:53:35,271 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:59 - Browser closed.

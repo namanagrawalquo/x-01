@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Quovantis(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.epay.cases.TestClass">
+        <methods>
+          <include name="end"/>
+          <include name="getTitleofContactPage"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.epay.cases.TestClass -->
+    </classes>
+  </test> <!-- Quovantis(failed) -->
+</suite> <!-- Failed suite [Suite] -->
